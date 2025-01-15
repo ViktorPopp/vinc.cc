@@ -7,6 +7,7 @@ title: Now
 - Living in a small town in southern Denmark
 - Playing with my [hobby operating system][1]
 - Enjoying the winter weather
+- Exploring how operating systems work
 
 Last updated: `2025-01-01`
 

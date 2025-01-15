@@ -49,7 +49,7 @@ if File.exist?("src/software/projects/.sync")
   ]
 
   projects.each do |project|
-    base = "https://raw.githubusercontent.com/vinc/#{project}/master"
+    base = "https://raw.githubusercontent.com/viktorpopp/#{project}/master"
     url = "#{base}/README.md"
     puts "Fetching '#{url}' ..."
     name = project.tr(".", "-")
