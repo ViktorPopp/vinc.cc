@@ -12,3 +12,4 @@ links about a variety of topics randomly organized as follow:
 - [Recipes](/recipes)
 - [Uses](/uses)
 - [News](/news)
+- [Computers](/computers)
