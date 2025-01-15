@@ -4,7 +4,7 @@ title: Now
 
 # Now
 
-- Living on an old farm in a forest of Brittany since 2018
+- Living in a small town in southern Denmark
 - Playing with my [hobby operating system][1]
 - Enjoying the winter weather
 
@@ -14,5 +14,4 @@ Last updated: `2025-01-01`
 
 [Home](/), [About](/about.html), [Ideas](/ideas.html)
 
-[1]: https://moros.cc
-[2]: https://stop.wasting.cloud
+[1]: https://infinityos-dev.github.io/

@@ -1,10 +1,5 @@
 ---
-title: Vinc
+title: Viktor Popp
 ---
 
-# VINC
-
-- [About](/about)
-- [News](/news)
-- [Pages](/pages)
-- [Contact](/contact)
+# VIKTOR

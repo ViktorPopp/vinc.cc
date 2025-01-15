@@ -16,3 +16,11 @@ gem "redcarpet"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
+
+# Timezone
+gem 'tzinfo-data'
+
+# IDK
+gem 'bigdecimal'
+gem 'mutex_m'
+gem 'csv'
